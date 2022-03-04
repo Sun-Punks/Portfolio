@@ -6,7 +6,7 @@
 ### Space Game
 Being able to code a working space game with working objects and a spaceship that follows your cursor. More credit if more detailed. 
 * Screen Capture of Running Application
-* ! [SpaceGame.png]
+* ![SpaceGame][logo]
 * Source Code for Application
 
 ### Calculator
