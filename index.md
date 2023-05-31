@@ -1,7 +1,7 @@
 # Soonhwi's Programming Portfolio 2022-2023
 #### Computer Programming 2 which focused on Java.
 
-## Projects
+## In-class Projects
 
 ### Multidimensional Arrays
 Being able to code a working space game with working objects and a spaceship that follows your cursor. More credit if more detailed. 
@@ -13,7 +13,7 @@ Being able to code a working space game with working objects and a spaceship tha
 * Screen Capture of IO Challenge Output and Input
 * ![Input](https://github.com/Sun-Punks/Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-31%20at%208.15.00%20AM.png)
 * ![Output](https://github.com/Sun-Punks/Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-31%20at%208.14.55%20AM.png)
-* [Source Code for IO Challenge]()
+* [Source Code for IO Challenge](https://github.com/Sun-Punks/Portfolio/blob/gh-pages/src/IOChallenge.zip)
 
 ### Cipher Project
 * Screen Capture of working Cipher Project
@@ -25,14 +25,14 @@ Being able to code a working space game with working objects and a spaceship tha
 * ![Cars]()
 * [Source Code for Cars]()
 
-## Java Projects
+## Big Projects
 
-### Shape Tester
-* Screen Capture of working ShapeTester
+### Individual Project (Whack-a-mole)
+* Screen Capture of game
 * ![ShapeTester]()
 * [Source Code for Shapetester]()
 
-### Number Guessing Game
-* Screen Capture of working Number Guessing Game
-* ![Number Guessing Game]()
+### Group Project (BREACH)
+* Screen Captures of game
+* ![d]()
 * [Source Code for Number Guessing Game]()
