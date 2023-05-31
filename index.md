@@ -11,7 +11,7 @@ Being able to code a working space game with working objects and a spaceship tha
 
 ### IO Challenge
 * Screen Capture of IO Challenge Output and Input
-* ![Input]()
+* ![Input](https://github.com/Sun-Punks/Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-31%20at%208.15.00%20AM.png)
 * ![Output](https://github.com/Sun-Punks/Portfolio/blob/gh-pages/images/Screen%20Shot%202023-05-31%20at%208.14.55%20AM.png)
 * [Source Code for IO Challenge]()
 
